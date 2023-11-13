@@ -6,9 +6,10 @@
     "permissions": [      
         "storage"
       ],
-    "host_permissions": [
-        "*://*/*"
-      ], 
+      "host_permissions": [
+        "*://twitter.com/*",
+        "*://*.twitter.com/*"
+    ],
     "action": {
         "default_popup": "hello.html",
         "default_icon": {

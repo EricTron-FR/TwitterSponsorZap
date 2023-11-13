@@ -1,5 +1,3 @@
-console.log('contentScript.js loaded');
-
 chrome.storage.local.get('extensionEnabled', data => {
     if (data.extensionEnabled) {
         initContentScript();

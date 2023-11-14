@@ -23,6 +23,8 @@ Stay Updated: Regular updates to the extension ensure compatibility with the lat
 
 # Getting Started:
 
-Getting started with TwitterSponsorZap is easy! Simply add the extension to your Chrome browser, and it will automatically start cleansing your Twitter/X from unwanted commercial content. Customize your experience using the popup menu and stay in control of what you see online.
+Getting started with TwitterSponsorZap is easy! Simply add the extension to your Chrome/Chromium browser, and it will automatically start cleansing your Twitter/X from unwanted commercial content. 
+
+https://chromewebstore.google.com/detail/twittersponsorzap/mpfelijkenlpkfekjlcefebafhlibbaf?hl=fr
 
 For any additional keywords or suggestions, feel free to reach out to @UncertainCoder on Twitter. Your feedback helps us improve and adapt to the ever-changing digital landscape.
